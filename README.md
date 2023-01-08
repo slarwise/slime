@@ -10,12 +10,12 @@ each other, or is it mainly to surveil?
 
 ## A naive solution
 
-Since this is a code repository, I kind of have to interact with a computer.
-We usually (source needed, is this the only way?) do this with text. So let's
-say I want that my name is Arvid. Let's tell that to the computer with text, and
-then output the text in a human-readable (non-specific, biased surely) way, as
-an image, as a sound, how as a touch? I can at least make it so that I can
-understand it myself in multiple ways.
+Since this is a code repository, I kind of have to interact with a computer. We
+usually (source needed, is this the only way?) do this with text. So let's say I
+want to communicate that my name is Arvid. Let's tell that to the computer with
+text, and then output the text in a human-readable (non-specific, biased surely)
+way, as an image, as a sound, how as a touch? I can at least make it so that I
+can understand it myself in multiple ways.
 
 ## API
 
