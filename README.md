@@ -33,3 +33,9 @@ outputs = transform_subjectively(input);
 ```programming-language
 text, image, sound, touch, video = transform_subjectively("My name is Arvid");
 ```
+
+## TODO
+
+What research are there regarding non-analyzable data, if that is a term? That
+sounds like a cool thing to have. Can't be analyzed, but still understood and
+translated by humans/non-computers/need better definition.
