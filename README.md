@@ -36,6 +36,9 @@ text, image, sound, touch, video = transform_subjectively("My name is Arvid");
 
 ## TODO
 
-What research are there regarding non-analyzable data, if that is a term? That
-sounds like a cool thing to have. Can't be analyzed, but still understood and
-translated by humans/non-computers/need better definition.
+- What research are there regarding non-analyzable data, if that is a term? That
+  sounds like a cool thing to have. Can't be analyzed, but still understood and
+  translated by humans/non-computers/need better definition.
+- What about AI? If it is good, can it still understand me? Is that
+  good/bad/neutral/a secret fourth thing?
+- Why are images usually rectangular?
