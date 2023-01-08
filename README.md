@@ -42,3 +42,4 @@ text, image, sound, touch, video = transform_subjectively("My name is Arvid");
 - What about AI? If it is good, can it still understand me? Is that
   good/bad/neutral/a secret fourth thing?
 - Why are images usually rectangular?
+- I am using markdown, lol.
